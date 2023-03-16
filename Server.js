@@ -161,7 +161,7 @@ let servicesModel = new mongoose.model('services', servicesSchema);
 let educationModel = new mongoose.model('education', educationSchema);
 let experienceModel = new mongoose.model('experience', experienceSchema);
 let userModel = new mongoose.model('user', user);
-let path=require("path")
+// let path=require("path")
 
 
 //Authentication
