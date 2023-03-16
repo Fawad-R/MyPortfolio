@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.761a733c.css",
-    "main.js": "/static/js/main.1379b885.js",
+    "main.js": "/static/js/main.0e4f0db7.js",
     "static/media/fawad2.png": "/static/media/fawad2.c6935d213419b82ba96e.png",
     "static/media/fawad.jpg": "/static/media/fawad.ed6fc95b8c60794f7377.jpg",
     "index.html": "/index.html",
     "main.761a733c.css.map": "/static/css/main.761a733c.css.map",
-    "main.1379b885.js.map": "/static/js/main.1379b885.js.map"
+    "main.0e4f0db7.js.map": "/static/js/main.0e4f0db7.js.map"
   },
   "entrypoints": [
     "static/css/main.761a733c.css",
-    "static/js/main.1379b885.js"
+    "static/js/main.0e4f0db7.js"
   ]
 }
