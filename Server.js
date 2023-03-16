@@ -11,7 +11,7 @@ const path = require('path')
 mongoose.connect(process.env.MONGO_URL);
 //app
 let app = express();
-
+ 
 //middleware
 app.use(express.json())
 app.use(cookieParser())
