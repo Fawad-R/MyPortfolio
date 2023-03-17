@@ -684,7 +684,7 @@ app.get('/DownloadCv', Auth, async (req, res) => {
 
 app.get("*",(req,res)=>{
     // res.sendFile(path.join(__dirname,"./client/build/index.html")),
-     const index = path.join(__dirname,'client', 'build', 'index.html');
+    //  const index = path.join(__dirname,'client', 'build', 'index.html');
     //  console.log('index',index);
     res.sendFile(path.join(__dirname,'client', 'build', 'index.html')),
     function (err) {
